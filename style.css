@@ -166,7 +166,7 @@ h3 {
 
 h4 {
   margin-top: 20px;
-  color: #ff5722; /* Accent color for headings */
+  color: #f6d1fd; /* Accent color for headings */
 }
 
 p {
@@ -191,7 +191,7 @@ p {
 
 .stylist-photo {
   flex-basis: 40%; /* Adjust based on preference */
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   border-radius: 10px;
 }
@@ -289,7 +289,7 @@ p {
 }
 
 .footer-section h4 {
-  color: #ff5722;
+  color: #f6d1fd;
   margin-bottom: 15px;
 }
 
